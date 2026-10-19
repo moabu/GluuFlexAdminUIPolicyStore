@@ -2,7 +2,7 @@
     "id": "07a3d91b8f424c95890a4e918238cfeecb48975eb477",
     "name": "GluuFlexAdminUI",
     "description": "",
-    "configuration_endpoint": "https://sandbox.gluu.org/.well-known/openid-configuration",
+    "configuration_endpoint": "https://your.op.server/.well-known/openid-configuration",
     "token_metadata": {
         "access_token": {
             "entity_type_name": "GluuFlexAdminUI::Access_token",
